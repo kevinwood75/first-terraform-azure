@@ -1,2 +1,2 @@
 location       = "eastus2"
-prefix         = "tf"
+prefix         = "woodez"
